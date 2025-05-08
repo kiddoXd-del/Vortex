@@ -1,0 +1,25 @@
+FOR ADMN 
+
+𝙁𝙊𝙍 𝘼𝘿𝘿𝙄𝙉𝙂 𝘽𝘼𝙇𝘼𝙉𝘾𝙀 
+
+/add_balance 
+
+example - /add_balance 7702886430 500
+
+
+𝙁𝙊𝙍 𝘼𝘿𝘿𝙄𝙉𝙂 𝙆𝙀𝙔  
+
+/add_key_<days>_<key>
+
+example -  /add_key_1_1DAY-KEY-NEW999
+
+𝙁𝙊𝙍 𝘽𝙍𝙊𝘼𝘿𝘾𝘼𝙎𝙏 
+
+/broadcast Your message here
+
+example - /broadcast Hello everyone! New keys have been added. Grab them now!
+
+' 📢 Broadcast:
+
+Hello everyone! New keys have been added. Grab them now! '
+

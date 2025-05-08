@@ -1,0 +1,30 @@
+{
+  "1_day": [
+    "DAY-KEY-1",
+    "DAY-KEY-2",
+    "DAY-KEY-3",
+    "DAY-KEY-4",
+    "DAY-KEY-5"
+  ],
+  "3_day": [
+    "3DAY-KEY-1",
+    "3DAY-KEY-2",
+    "3DAY-KEY-3",
+    "3DAY-KEY-4",
+    "3DAY-KEY-5"
+  ],
+  "7_day": [
+    "7DAY-KEY-1",
+    "7DAY-KEY-2",
+    "7DAY-KEY-3",
+    "7DAY-KEY-4",
+    "7DAY-KEY-5"
+  ],
+  "30_day": [
+    "30DAY-KEY-1",
+    "30DAY-KEY-2",
+    "30DAY-KEY-3",
+    "30DAY-KEY-4",
+    "30DAY-KEY-5"
+  ]
+}
